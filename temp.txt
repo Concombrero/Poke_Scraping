@@ -1,0 +1,4 @@
+Pokémon Name: Bulbizarre
+Types: Plante (type), Poison (type)
+Height: 0,7 m, soit 2 pieds 4 pouces
+Weight: 6,9 kg, soit 15,2 livres
